@@ -1,5 +1,5 @@
 # choice
-Matrix terminal screen saver made in C  
+A simple utility to pick an item from a list of arguments
 
 ## Compiling
 Run `make`
